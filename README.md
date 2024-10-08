@@ -14,3 +14,4 @@ Working fork of royvz-dev's Next + Storyblok boilerplate. This fork contains cus
 - You can now use "Real Path" under the Config settings in Storyblok (just add a `/`) and homepage will now render under the root URL instead of /home
 
 yusuf heeft het aanagepast
+ewwt47iuop,[']

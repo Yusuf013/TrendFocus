@@ -12,3 +12,5 @@ Working fork of royvz-dev's Next + Storyblok boilerplate. This fork contains cus
 - Added [slug] folder with page.tsx. This file now is used for all pages _except_ Home
 - Home will use the page.tsx in the app folder
 - You can now use "Real Path" under the Config settings in Storyblok (just add a `/`) and homepage will now render under the root URL instead of /home
+
+yusuf heeft het aanagepast

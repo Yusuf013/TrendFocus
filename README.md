@@ -1,4 +1,4 @@
-Ik heb deze repository gemaakt om voor het eerst te oefenen met het maken van een connectie tussen Storyblok en een next.js project. Ik heb gebruik gemaakt van de tuturial van Pim en hulp gekregen van klasgenoten.
+Ik heb deze repository gemaakt om voor het eerst te oefenen met het maken van een connectie tussen Storyblok en een next.js project. Ik heb gebruik gemaakt van de tutorial van Pim en hulp gekregen van klasgenoten.
 
 ## Notes
 * `npm run dev` gives you a local SSL certificatie for localhost so allow it please. Otherwise Storyblok's visual live editor won't work.

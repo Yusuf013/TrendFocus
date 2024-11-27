@@ -8,11 +8,13 @@ import {
 import Page from "./page.component";
 import Feature from "./Feature/Feature";
 import ourValues from "./ourValues/ourValues";
+import OurTeam_caroussel from "./OurTeam-caroussel/OurTeam-caroussel";
 
 const components = {
   page: Page,
   feature: Feature,
   ourValues: ourValues,
+  OurTeam_caroussel: OurTeam_caroussel,
 };
 
 storyblokInit({
